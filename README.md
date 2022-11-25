@@ -2,9 +2,9 @@
 https://drive.google.com/drive/u/0/folders/1-KOeAQ6w9IQMSPy5ewn4Xp4e0KxzHs5U
 
 # datasets
-https://huggingface.co/datasets
-https://visualdata.io/discovery
-https://paperswithcode.com/datasets
+https://huggingface.co/datasets  
+https://visualdata.io/discovery  
+https://paperswithcode.com/datasets  
 
 
 ## Dataset Finders
