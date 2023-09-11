@@ -182,27 +182,23 @@ If you want to look beyond, these data repositories are widely used by the commu
 🦏 If you *really* know what you are doing, send us a link to your `*.ipynb` file or *Colab notebook* with any questions related to it a day before the class.
 
 ### Dataset Finders
-https://toolbox.google.com/datasetsearch
-Google Dataset Search: Similar to how Google Scholar works, Dataset Search lets you find datasets wherever they are hosted, whether it’s a publisher’s site, a digital library, or an author’s web page. It’s a phenomenal dataset finder, and it contains over 25 million datasets.
 
-https://www.kaggle.com/
-Kaggle: Kaggle provides a vast container of datasets, sufficient for the enthusiast to the expert.
+[Google Dataset Search](https://toolbox.google.com/datasetsearch): Similar to how [Google Scholar](https://scholar.google.com/) works, Dataset Search lets you find datasets wherever they are hosted, whether it’s a publisher’s site, a digital library, or an author’s web page. It’s a phenomenal dataset finder, and it contains over 25 million datasets.
 
-http://mlr.cs.umass.edu/ml/
-UCI Machine Learning Repository: The Machine Learning Repository at UCI provides an up to date resource for open-source datasets.
+[Kaggle](https://www.kaggle.com/): Kaggle provides a vast container of datasets, sufficient for the enthusiast to the expert.
 
-https://www.visualdata.io/
-VisualData: Discover computer vision datasets by category; it allows searchable queries.
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/): The Machine Learning Repository at [UCI](https://www.uci.edu/) provides an up to date resource for open-source datasets.
 
-https://guides.library.cmu.edu/machine-learning/datasets
-CMU Libraries: Discover high-quality datasets thanks to the collection of Huajin Wang, at CMU.
+[VisualData](https://www.visualdata.io/): Discover computer vision datasets by category; it allows searchable queries.
 
-https://datasets.quantumstat.com/
-The Big Bad NLP Database: This cool dataset list contains datasets for various natural language processing tasks, created and curated by Quantum Stat.
+[CMU Libraries](https://guides.library.cmu.edu/machine-learning/datasets
+)): Discover high-quality datasets thanks to the collection of Huajin Wang, at [CMU](https://www.cmu.edu/).
 
-Even more:
-https://www.v7labs.com/blog/best-free-datasets-for-machine-learning
-https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+[The Big Bad NLP Database](https://datasets.quantumstat.com/): This cool dataset list contains datasets for various natural language processing tasks, created and curated by [Quantum Stat](https://quantumstat.com/).
+
+Even more:  
+https://www.v7labs.com/blog/best-free-datasets-for-machine-learning  
+https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f  
 
 ## 🚀 Takeaways
 
