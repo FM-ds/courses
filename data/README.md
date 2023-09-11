@@ -37,13 +37,77 @@ You will gain the skills and tools needed to create excellent charts. The course
 ## 📑 Syllabus
 
 ### Session 1 - Building your first website
-- Introduction to the course
+
+`Coordinated by: Prof Richard Davies`  
+  
+In the first session we introduce HTML, CSS and JavaScript as you build and style your first website. You will also embed your first automated and interactive charts.
+
+1.	Introduction + building blocks
+
+-	Motivation   
+What is good Data Science? Where does it sit? Principles.
+- Web building blocks: HTML, CSS and JS  
+(visualisations are _just 🌟 fancy 🌟 websites_ built from components)
+- Building your first interactive web site
+- [GitHub](https://github.com/) pages
+- Introduction 
+
+2.	Charting principles
+- The good the bad and the ugly
+- History
+- Good charting guide
+- Making two live and interactive charts
+- Introduction to charting libraries
+
+#### 🎮 Action points
+
+- Please watch this introductory video
+- Set up your own [GitHub](https://github.com/) account at `username` and repository at `username.github.io`. This becomes your own website. In the end, your GitHub should look like [this](https://github.com/eco-demo-student).
+- Create a demo `index.html` page in your repository and add 3 sentences about yourself.:
+  -  Why are you here?
+  -  What is your level experience?
+  -  What would you like to learn?
+-  You should end up with something like [this](https://eco-demo-student.github.io/) .
+
 ### Session 2 - Introduction to data processing
-- Introduction to the course
+
+`Coordinated by: Prof Richard Davies`  
+
+The third session is devoted to loops, one of the most powerful tools in any coder’s arsenal. We will show how a loop takes you from a small dataset to the world of big data.
+
+Programming for Data Science (RD)
+•	Conditionality statements.
+•	For loops.
+•	Elegance in code.	Accessing Data 3
+•	Loops. 
+•	Multi-dimensional data
+
+
 ### Session 3 - Accessing data programmatically
-- Introduction to the course
+
+`Coordinated by: Dr Dénes Csala`  
+
+In our third session we access data from APIs, discussing the benefits, pitfalls and debugging.
+
+DC
+Python
+JSON
+Pandas
+read_html
+read API / 
+ECO API
+scraping / Selenium for connoisseurs 
+
 ### Session 4 - Visualisation and advanced analytics
-- Introduction to the course
+
+`Coordinated by: Dr Dénes Csala`  
+
+This session
+
+### Self-guided learning
+
+In the final session we will build tools to learn from the data. We will discuss Machine Learning (ML) and the difference between “supervised” and “unsupervised” learning, as well as the use of labelled and unlabelled data.
+
 
 ## 🖇️ Pre-requisites
 We don't require any prior knowledge of programming or data science, other than high-school level mathematics and statistics. However, it helps us speed up things on the day if you do some preparation before the class:
