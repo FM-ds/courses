@@ -16,14 +16,14 @@ Welcome to our interactive data masterclass. At the **Economics Observatory** we
 
 in our day-to-day work the **Economics Observatory**, we use data to amplify and distil the messages of our articles. Making charts clear and eye-catching, while also ensuring that the underlying data are transparent and replicable, is critical to what we do. This masterclass is designed to capture and share that workflow.
 
-## Scope
+## 🔍 Scope
 
 Our data visualisation masterclass will take you from a being complete beginner to someone capable of designing and building stunning charts using cutting-edge tools, connected to live data. The course is designed to highlight the advantages and some caveats of using data visualisation as the main channel for communicating (economic) information to a wide and diverse audience. It will also introduce some of our guiding principles on visualisation, focusing on transparency and how to select appropriate tools and methods for different datasets and contexts.
 
 You will gain the skills and tools needed to create excellent charts. The course will also signpost additional resources to develop the ideas further, allowing participants to gain confidence in their own abilities and teach others. The latter stages of the course will delve deeper into the current information representation and science communication theory, exploring more advanced data visualisation methods.
 
 
-## Schedule
+## 🕒 Schedule
 | Session | Time | Topic |
 | :---: | :---: | :---: |
 | 1 | 09:00-10:30 | Building your first website |
@@ -34,7 +34,7 @@ You will gain the skills and tools needed to create excellent charts. The course
 | Break | 15:00-15:30 | Coffee break |
 | 4 | 15:30-17:00 | Visualisation and advanced analytics |
 
-## Syllabus
+## 📑 Syllabus
 
 ### Session 1 - Building your first website
 - Introduction to the course
@@ -45,17 +45,17 @@ You will gain the skills and tools needed to create excellent charts. The course
 ### Session 4 - Visualisation and advanced analytics
 - Introduction to the course
 
-## Pre-requisites
-We don't require any prior knowledge of programming or data science. However, it helps us speed up things on the day if you do some preparation before the class:
+## 🖇️ Pre-requisites
+We don't require any prior knowledge of programming or data science, other than high-school level mathematics and statistics. However, it helps us speed up things on the day if you do some preparation before the class:
 
 - ds
 
-## Tools & Software
+## 🔮 Tools & Software
 We don't require any prior downloaded software for the masterclass. However, it helps us speed up things on the day if you do some preparation before the class:
 
 - ds
 
-## Datasets
+## 📊 Datasets
 **BYOD: We encourage you to Bring Your Own Data to the masterclass**.   
 It can be data about everything, the financial report from the the last quarter or your sales logbook from your small coffee shop. It can be in any format `CSV, Excel, Stata, Matlab, JSON, etc.`  - or even just a table from a website, we'll work with it.
 
@@ -87,3 +87,12 @@ The Big Bad NLP Database: This cool dataset list contains datasets for various n
 Even more:
 https://www.v7labs.com/blog/best-free-datasets-for-machine-learning
 https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+
+## 🚀 Takeaways
+
+### 1 
+- dsds
+### 2
+- ds
+### 3
+- ds 
