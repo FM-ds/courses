@@ -151,7 +151,7 @@ We don't require any prior knowledge of programming or data science, other than 
 🦏 **If you *really* know what you are doing, just use the [`datascience-notebook`](https://hub.docker.com/r/jupyter/datascience-notebook) [Docker](https://www.docker.com/) image. Also, this course might not be for you 🙃
 
 ## 🔮 Tools & Software
-We don't require any prior downloaded software for the masterclass (* You can use *any* text editor already installed on your system. You might have [Sublime Text](https://www.sublimetext.com/), [Notepad++](https://notepad-plus-plus.org/) or [Atom](https://github.com/atom/atom/releases/tag/v1.60.0). However, we will conduct the common coding experience for the class in [*VSCode*](https://code.visualstudio.com/)). It helps us speed up things on the day if you do some preparation before the class:
+We don't require any prior downloaded software for the masterclass (* You can use *any* text editor already installed on your system. You might already have [Sublime Text](https://www.sublimetext.com/), [Notepad++](https://notepad-plus-plus.org/) or [Atom](https://github.com/atom/atom/releases/tag/v1.60.0) on your system. The default *Notepad* in Windows is inadequate, as it is difficult to  format indents in it. However, we will conduct the common coding experience for the class in [*VSCode*](https://code.visualstudio.com/)). It helps us speed up things on the day if you do some preparation before the class:
 
 - Take a look at [Visual Studio Code (*VSCode*) Desktop](https://code.visualstudio.com/docs)
 
@@ -160,7 +160,8 @@ We don't require any prior downloaded software for the masterclass (* You can us
 - [Download and install *VSCode*](https://code.visualstudio.com/) for your operating system
 - Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin for *VSCode*  
 
-🐘 *If you know what you are doing, you are also welcome to skip the these steps and use an all-in-browser development environment like [*Codepen*](https://codepen.io/)
+🐘 *If you know what you are doing, you are welcome to use *any* text editor, provided that you also know how to establish a live server with `ptyhon`, such as [`SimpleHTTPServer`](https://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver) or [`wutch`](https://www.linkedin.com/pulse/introducing-wutch-python-based-live-server-vagiz-duseev/).  
+🦏 *If you *really* know what you are doing, you are also welcome to skip the these steps and use an all-in-browser development environment like [*Codepen*](https://codepen.io/)
 
 ## 📊 Datasets
 **BYOD: We encourage you to Bring Your Own Data to the masterclass**.   
