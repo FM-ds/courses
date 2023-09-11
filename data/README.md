@@ -151,7 +151,7 @@ We don't require any prior knowledge of programming or data science, other than 
 🦏 **If you *really* know what you are doing, just use the [`datascience-notebook`](https://hub.docker.com/r/jupyter/datascience-notebook) [Docker](https://www.docker.com/) image. Also, this course might not be for you 🙃
 
 ## 🔮 Tools & Software
-We don't require any prior downloaded software for the masterclass (* You can use *any* text editor already installed on your system. You might already have [Sublime Text](https://www.sublimetext.com/), [Notepad++](https://notepad-plus-plus.org/) or [Atom](https://github.com/atom/atom/releases/tag/v1.60.0) on your system. The default *Notepad* in Windows is inadequate, as it is difficult to  format indents in it. However, we will conduct the common coding experience for the class in [*VSCode*](https://code.visualstudio.com/)). It helps us speed up things on the day if you do some preparation before the class:
+We don't require any prior downloaded software for the masterclass (* You may use *any* text editor already installed on your system. You might already have [Sublime Text](https://www.sublimetext.com/), [Notepad++](https://notepad-plus-plus.org/) or [Atom](https://github.com/atom/atom/releases/tag/v1.60.0) on your system. The default *Notepad* in Windows is inadequate, as it is difficult to  format indents in it. However, we will conduct the common coding experience for the class in [*VSCode*](https://code.visualstudio.com/)). It helps us speed up things on the day if you do some preparation before the class:
 
 - Take a look at [Visual Studio Code (*VSCode*) Desktop](https://code.visualstudio.com/docs)
 
@@ -177,7 +177,9 @@ If you want to look beyond, these data repositories are widely used by the commu
 
 - If you **BYOD**, the	targeted complexity should be around `1000 data points` in at least `3 dimensions`. Say you have a small shop and you have sales data about `3` products – this counts as `3` dimensions: the `sales value` (time series), the `time` (record date) and the `product` (name). Even better if you have this for different `cities` – a `4`th dimension.
 
-🐘 *If you know what you are doing, convert your data into `JSON` format or just ping us the link to **any `API`** that you would like to explore a day before the class.
+🐘 *If you know what you are doing, convert your data into `JSON` format or just ping us the link to **any `API`** that you would like to explore a day before the class.  
+
+🦏 If you *really* know what you are doing, send us a link to your `*.ipynb` file or *Colab notebook* with any questions related to it a day before the class.
 
 ### Dataset Finders
 https://toolbox.google.com/datasetsearch
