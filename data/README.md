@@ -61,7 +61,7 @@ What is good Data Science? Where does it sit? Principles.
 
 #### 🎮 Action points
 
-- ▶️ Please watch [this introductory video](https://www.dropbox.com/s/b456p0m5iclhwo5/Data%20Science%20%28EFIM30006%29%20Set%20Up%20Video.mp4?dl=0)
+- ▶️ Please watch [this introductory video](https://youtu.be/Sv-O9uwWd7M )
 - Set up your own [GitHub](https://github.com/) account at `username` and repository at `username.github.io`. For example, Richard’s account is `RDEconomist`, so his special repository is `RDEconomist.github.io`. Repositories are like an on-line folder and you can, in general, name them as you wish. But this is a special case, which must be exactly your username. This special repository becomes your website which GitHub hosts for you, *free of charge*. After taking these steps, your GitHub should look like [this](https://github.com/eco-demo-student).
 - Create a demo `index.html` page in your repository and add 3 sentences about yourself.:
   -  Why are you here?
