@@ -24,15 +24,15 @@ You will gain the skills and tools needed to create excellent charts. The course
 
 
 ## 🕒 Schedule
-| Session | Time | Topic |
-| :---: | :---: | :---: |
-| 1 | 09:00-10:30 | Building your first website |
-| Break | 10:30-11:00 | Coffee break |
-| 2 | 11:00-12:30 | Introduction to data processing |
-| Break | 12:30-13:30 | Lunch break |
-| 3 | 13:30-15:00 | Accessing data programmatically |
-| Break | 15:00-15:30 | Coffee break |
-| 4 | 15:30-17:00 | Visualisation and advanced analytics |
+| Session |    Time     |                Topic                 |
+| :-----: | :---------: | :----------------------------------: |
+|    1    | 09:00-10:30 |     Building your first website      |
+|  Break  | 10:30-11:00 |             Coffee break             |
+|    2    | 11:00-12:30 |   Introduction to data processing    |
+|  Break  | 12:30-13:30 |             Lunch break              |
+|    3    | 13:30-15:00 |   Accessing data programmatically    |
+|  Break  | 15:00-15:30 |             Coffee break             |
+|    4    | 15:30-17:00 | Visualisation and advanced analytics |
 
 ## 📑 Syllabus
 
@@ -93,9 +93,9 @@ What is good Data Science? Where does it sit? Principles.
 - `python`
   - `python` dictionaries and lists
   - `pandas` - not this one 🐼, 
-  but the excellent `Python Data Analysis Library`
+  but the excellent [`Python Data Analysis Library`](https://pandas.pydata.org/)
 - `JavaScript`
-  - `JSON` JavScript Objects and Array
+  - `JSON` JavScript Objects and Arrays
 
 #### b. Automated data access 🧙
 
@@ -108,18 +108,21 @@ What is good Data Science? Where does it sit? Principles.
 
 `Coordinated by: Dr Dénes Csala`  
 
-This session is an introduction to data visualisation
+🔖 The last session of the day is an introduction to data visualisation principles and data models. We will also set some time aside to work on your personal data projects.
 
-#### a.	Why to hate pie charts
-Introduction to chart ypes
+#### a.	The language of data – the grammar of graphics
 
-#### b.	The language of data – the grammar of graphics
-Which chart to use when
+- Visual encodings
+- The visualization zoo 🦒🦣🦘🦥
+  -  Introduction to chart types
+  - Which chart to use when
+- Data storytelling with interactive charts
 
+#### b.	Data project
 
 ### Self-guided learning
 
-This is an extra, self-guided session in which will build tools to learn from the data. We will discuss the differences between ****Artificial Intelligence**** (AI) and **Machine Learning** (ML) and the difference between *supervised* and *unsupervised* learning, as well as the use of labelled and unlabelled data.
+This is an extra, self-guided session in which you will build tools to learn from the data. Using some guiding notebooks in `python`, we illustrate the differences between ****Artificial Intelligence**** (AI) and **Machine Learning** (ML) and the difference between *supervised* and *unsupervised* learning, as well as the use of labelled and unlabelled data.
 
 ### Resources
 
@@ -134,6 +137,9 @@ The publication of the [Data Visualization Society](https://www.datavisualizatio
 - [W3Schools](https://www.w3schools.com/)  
   An equally superb intro to HTML, CSS and JavaScript from the [World Wide Web Consortium](https://www.w3.org/).
 
+#### 🔴 ECO Visualisation Guidelines
+
+Head over to our **[ECOvisualisations](https://github.com/EconomicsObservatory/ecovisualisations)** repository for all [Economics Observatory](https://www.economicsobservatory.com) charts sorted by article. We try to follow industry best-practices in data visualisation and try to establish our very own visualisation guidelines for all chart types. You can read about these, as well as the tools we use in [**📐visualisation guidelines**](https://github.com/EconomicsObservatory/ECOvisualisations/tree/main/guidelines).  
 
 ## 🖇️ Pre-requisites
 We don't require any prior knowledge of programming or data science, other than high-school level mathematics and statistics. However, it helps us speed up things on the day if you do some preparation before the class:
@@ -182,23 +188,26 @@ If you want to look beyond, these data repositories are widely used by the commu
 🦏 If you *really* know what you are doing, send us a link to your `*.ipynb` file or *Colab notebook* with any questions related to it a day before the class.
 
 ### Dataset Finders
+ 
+Similar to how [Google Scholar](https://scholar.google.com/) works, [Google Dataset Search](https://toolbox.google.com/datasetsearch) lets you find datasets wherever they are hosted, whether it’s a publisher’s site, a digital library, or an author’s web page. It’s a phenomenal dataset finder, and it contains over 25 million datasets.
 
-[Google Dataset Search](https://toolbox.google.com/datasetsearch): Similar to how [Google Scholar](https://scholar.google.com/) works, Dataset Search lets you find datasets wherever they are hosted, whether it’s a publisher’s site, a digital library, or an author’s web page. It’s a phenomenal dataset finder, and it contains over 25 million datasets.
+[Kaggle](https://www.kaggle.com/) provides a vast container of datasets, sufficient for the enthusiast to the expert.
 
-[Kaggle](https://www.kaggle.com/): Kaggle provides a vast container of datasets, sufficient for the enthusiast to the expert.
-
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/): The Machine Learning Repository at [UCI](https://www.uci.edu/) provides an up to date resource for open-source datasets.
+The [UCI Machine Learning Repository](https://archive.ics.uci.edu/) at [UCI](https://www.uci.edu/) provides an up to date resource for open-source datasets.
 
 [VisualData](https://www.visualdata.io/): Discover computer vision datasets by category; it allows searchable queries.
 
 [CMU Libraries](https://guides.library.cmu.edu/machine-learning/datasets
 )): Discover high-quality datasets thanks to the collection of Huajin Wang, at [CMU](https://www.cmu.edu/).
 
-[The Big Bad NLP Database](https://datasets.quantumstat.com/): This cool dataset list contains datasets for various natural language processing tasks, created and curated by [Quantum Stat](https://quantumstat.com/).
+The [The Big Bad NLP Database](https://datasets.quantumstat.com/) contains datasets for various natural language processing tasks, created and curated by [Quantum Stat](https://quantumstat.com/).
 
 Even more:  
-https://www.v7labs.com/blog/best-free-datasets-for-machine-learning  
-https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f  
+[V7 | Alberto Rizzoli](https://www.v7labs.com/blog/best-free-datasets-for-machine-learning)  
+[TowardsAI | Stacy Stanford, Roberto Iriondo, Pratik Shukla](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)  
+
+#### 🔴 ECO Data Guidelines 
+While all of our chart data are published under their respective article subfolders in **[ECOvisualisations](https://github.com/EconomicsObservatory/ecovisualisations)**, we also operate the [Economics Observatory Data Hub](https://www.economicsobservatory.com/data-hub), where you will find interactive tools and visualisations to easily load data from a number of sources in a unified format. Whenever possible, we try to follow a [TIDY](http://vita.had.co.nz/papers/tidy-data.pdf) format and you can read about our data zen in [**📐data guidelines**](https://github.com/EconomicsObservatory/ECOdataHUB/tree/main/guidelines). 
 
 ## 🚀 Takeaways
 
@@ -208,3 +217,5 @@ https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-comput
 - ds
 ### 3
 - ds 
+
+
