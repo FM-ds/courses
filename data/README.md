@@ -67,7 +67,7 @@ What is good Data Science? Where does it sit? Principles.
   -  Why are you here?
   -  What is your level experience?
   -  What would you like to learn?
--  You should end up with something like [this](https://eco-demo-student.github.io/) .
+-  You should end up with something like [this](https://eco-demo-student.github.io/).
 
 ### Session 2 - Introduction to data processing
 
@@ -117,8 +117,15 @@ What is good Data Science? Where does it sit? Principles.
   -  Introduction to chart types
   - Which chart to use when
 - Data storytelling with interactive charts
+- Basic principles of machine learning
 
 #### b.	Data project
+
+To finish off your course, you will work individualy or in small groups to create a data visualisation portfolio piece. You will be able to choose from a number of datasets, or you can bring your own data. Our team be on hand to help you with any questions you might have.
+
+Your finished portfolio should include a GitHub page with a short description of your project and 3 embedded visualisations. You will also be able to present your work to the rest of the class. 
+
+You may hould end up with something like [this](https://eco-demo-student.github.io/).
 
 ### Self-guided learning
 
