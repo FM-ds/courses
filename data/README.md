@@ -183,6 +183,7 @@ We don't require any prior downloaded software for the masterclass (* You may us
 #### 🎮 Action points
 
 - [Download and install *VSCode*](https://code.visualstudio.com/) for your operating system
+  - If you cannot download/install *VSCode*, you can use the [`VSCode Online`](https://vscode.dev/) version in your browser
 - Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin for *VSCode*  
 - Test that the [Simple Bar Chart](https://vega.github.io/editor/#/examples/vega-lite/bar) example in the [Vega Editor](https://vega.github.io/editor/) works in your browser
   - If you get blank screen at first, try clicking on the `Fulscreen` button in the top right corner of the right pane of the editor
