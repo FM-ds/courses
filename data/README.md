@@ -95,7 +95,7 @@ What is good Data Science? Where does it sit? Principles.
   - `pandas` - not this one 🐼, 
   but the excellent [`Python Data Analysis Library`](https://pandas.pydata.org/)
 - `JavaScript`
-  - `JSON` JavScript Objects and Arrays
+  - `JSON` JavaScript Objects and Arrays
 
 #### b. Automated data access 🧙
 
@@ -121,11 +121,21 @@ What is good Data Science? Where does it sit? Principles.
 
 #### b.	Data project
 
-To finish off your course, you will work individualy or in small groups to create a data visualisation portfolio piece. You will be able to choose from a number of datasets, or you can bring your own data. Our team be on hand to help you with any questions you might have.
+To finish off your course, you will work individualy or in small groups to create a data visualisation portfolio piece. You will be able to choose from a number of datasets, or you can bring your own data (see the **BYOD** section below). Our team be on hand to help you with any questions you might have.
 
-Your finished portfolio should include a GitHub page with a short description of your project and 3 embedded visualisations. You will also be able to present your work to the rest of the class. 
+Your finished portfolio should include a formatted and styled GitHub page with a short description of your project and 3 embedded visualisations. You will also be able to present your work to the rest of the class.  
 
-You may hould end up with something like [this](https://eco-demo-student.github.io/).
+You may end up with something like [this](https://economicsobservatory.github.io/courses/data/html/portfolio_sample/).
+
+Ideally, your portfolio should include at least `3 charts`:
+- One example chart that we used in the class, but has a slight modification and an interactive component - this could be a legend, a tooltip, a slider, a dropdown, etc.
+-	A chart with automated data loading through an API or web scraping
+-	A chart about a topic that you especially care about
+
+#### 🎮 Action points
+
+- Please think about what you might include in your portfolio and what data you might use. You can use any data you like, but we will also provide some datasets for you to use.
+- If you would like to create a specific chart, we can help you build it - but consider the range of possibilities in the [Vega-Lite Example Gallery](https://vega.github.io/vega-lite/examples/). 
 
 ### Self-guided learning
 
@@ -167,11 +177,15 @@ We don't require any prior knowledge of programming or data science, other than 
 We don't require any prior downloaded software for the masterclass (* You may use *any* text editor already installed on your system. You might already have [Sublime Text](https://www.sublimetext.com/), [Notepad++](https://notepad-plus-plus.org/) or [Atom](https://github.com/atom/atom/releases/tag/v1.60.0) on your system. The default *Notepad* in Windows is inadequate, as it is difficult to  format indents in it. However, we will conduct the common coding experience for the class in [*VSCode*](https://code.visualstudio.com/)). It helps us speed up things on the day if you do some preparation before the class:
 
 - Take a look at [Visual Studio Code (*VSCode*) Desktop](https://code.visualstudio.com/docs)
+- Take a look at the [Vega-Lite Visualisation Grammar](https://vega.github.io/vega-lite/) and the [Vega-Lite Example Gallery](https://vega.github.io/vega-lite/examples/)
+  - Vega-Lite is based on the [Grammar of Graphics](https://www.springer.com/gp/book/9780387245447) by [Leland Wilkinson](https://en.wikipedia.org/wiki/Leland_Wilkinson), which is the basis of the [ggplot2](https://ggplot2.tidyverse.org/) package in `R` and the [Altair](https://altair-viz.github.io/) package in `python`. It is also the basis of the [Vega](https://vega.github.io/vega/) visualisation grammars, which [Vega-Lite](https://vega.github.io/vega-lite/) is a simplification of.
 
 #### 🎮 Action points
 
 - [Download and install *VSCode*](https://code.visualstudio.com/) for your operating system
 - Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin for *VSCode*  
+- Test that the [Simple Bar Chart](https://vega.github.io/editor/#/examples/vega-lite/bar) example in the [Vega Editor](https://vega.github.io/editor/) works in your browser
+  - If you get blank screen at first, try clicking on the `Fulscreen` button in the top right corner of the right pane of the editor
 
 🐘 *If you know what you are doing, you are welcome to use *any* text editor, provided that you also know how to establish a live server with `ptyhon`, such as [`SimpleHTTPServer`](https://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver) or [`wutch`](https://www.linkedin.com/pulse/introducing-wutch-python-based-live-server-vagiz-duseev/).  
 🦏 *If you *really* know what you are doing, you are also welcome to skip the these steps and use an all-in-browser development environment like [*Codepen*](https://codepen.io/)
@@ -218,11 +232,11 @@ While all of our chart data are published under their respective article subfold
 
 ## 🚀 Takeaways
 
-### 1 
-- dsds
-### 2
-- ds
-### 3
-- ds 
+### 1.  Personal webpage
+- GitHub account with a repository created to serve as your personal webpage, configured, styled and formatted
+### 2. Data portfolio
+- `3` interactive data visualisations including one chart with an interactive element and another one with *live* data served from an API or scraped from a website.
+### 3. A new skillset
+- The language of data *is* visualisation and by the end of this course you will have learnt how to introduce yourself in this new language.
 
 
