@@ -3,4 +3,7 @@ section2/*.pptx
 section3/*.pptx
 section4/*.pptx
 self-guided-learning/*.pptx
-.DS_Store
+# .DS_Store
+# ._.DS_Store
+# **/.DS_Store
+# **/._.DS_Store
